@@ -14,3 +14,39 @@ To use this project, simply download or clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/swastik-star-pattern.git
+```
+
+Alternatively, you can directly copy the main.cpp file into your project directory.
+
+# Usage
+1. Make sure you have a C++ compiler installed (e.g., g++, clang).
+
+2. Navigate to the project directory and compile the code:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
