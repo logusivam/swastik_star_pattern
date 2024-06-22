@@ -22,15 +22,35 @@ Alternatively, you can directly copy the main.cpp file into your project directo
 1. Make sure you have a C++ compiler installed (e.g., g++, clang).
 
 2. Navigate to the project directory and compile the code:
+```
+g++ main.cpp -o swastik_star_pattern
+```
 
+3. Run the compiled executable:
+```
+./swastik
+```
 
+4. Follow the on-screen instructions to input the size of the Swastik pattern.
 
+# Example
+Here is an example of the Swastik star pattern:
+```
+Enter the size of the Swastik pattern: 5
 
+*   ***** 
+*   *     
+*   *     
+********* 
+    *   * 
+*****   *
+```
 
+# Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-
-
-
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
