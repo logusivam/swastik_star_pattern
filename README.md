@@ -13,7 +13,7 @@ This project demonstrates how to print a Swastik star pattern using C++. The Swa
 To use this project, simply download or clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/swastik-star-pattern.git
+git clone https://github.com/logusivam/swastik-star-pattern.git
 ```
 
 Alternatively, you can directly copy the main.cpp file into your project directory.
